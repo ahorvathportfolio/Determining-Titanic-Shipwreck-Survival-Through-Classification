@@ -5,5 +5,5 @@
    observations. This project seeks to explore the use of probabilistic classification methods such as logistic 
    regression, naive bayes, different methods based on assuming Normal populations, and other more general 
    methods such as classification trees to determine the survival of individuals from the Titanic shipwreck. 
--- As this was a major project for my MS in Statistics, much of the focus is on the methods themselves as apposed 
+-  As this was a major project for my MS in Statistics, much of the focus is on the methods themselves as apposed 
    to solely the application.
